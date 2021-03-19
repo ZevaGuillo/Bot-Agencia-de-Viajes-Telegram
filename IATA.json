@@ -1,0 +1,242 @@
+{ 
+    "Ecuador": [
+    {
+        "Ciudad":"Galápagos",
+        "IATA":"SCY",
+        "Aeropuerto":"Aeropuerto de San Cristóbal"
+    },
+    {
+        "Ciudad":"Manabí",
+        "IATA":"MEC",
+        "Aeropuerto":"Aeropuerto Internacional Eloy Alfaro"
+    },
+    {
+        "Ciudad":"Guayaquil",
+        "IATA":"GYE",
+        "Aeropuerto":"Aeropuerto Internacional José Joaquín de Olmedo"
+    },
+    {
+        "Ciudad":"Quito",
+        "IATA":"UIO",
+        "Aeropuerto":"Antiguo Aeropuerto Internacional Mariscal Sucre"
+    }
+    ],
+    "Estados Unidos":[
+    {
+        "Ciudad":"Boston",
+        "IATA":"BOS",
+        "Aeropuerto":"Aeropuerto Internacional Logan"
+    },    
+    {
+        "Ciudad":"Denver",
+        "IATA":"DEN",
+        "Aeropuerto":"Aeropuerto Internacional de Denver"
+    },
+    {
+        "Ciudad":"Detroit",
+        "IATA":"DTT",
+        "Aeropuerto":"Aeropuerto Metropolitano del Condado de Wayne de Detroit"
+    },
+    {
+        "Ciudad":"Las vegas",
+        "IATA":"LAS",
+        "Aeropuerto":"Aeropuerto Internacional McCarran"
+    },
+    {
+        "Ciudad":"Los Angeles",
+        "IATA":"LAX",
+        "Aeropuerto":"Aeropuerto Internacional de Los Ángeles"
+    },
+    {
+        "Ciudad":"New York",
+        "IATA":"NYC",
+        "Aeropuerto":"Aeropuerto Internacional John F. Kennedy"
+    },
+    {
+        "Ciudad":"San Francisco",
+        "IATA":"SFO",
+        "Aeropuerto":"Aeropuerto Internacional de San Francisco"
+    },
+    {
+        "Ciudad":"Washinton D. C. ",
+        "IATA":"WAS",
+        "Aeropuerto":"Aeropuerto Internacional de Washington-Dulles"
+    }
+    ],
+    "Brasil": [
+    {
+        "Ciudad":"Brasilia",
+        "IATA":"BSB",
+        "Aeropuerto":"Aeropuerto Internacional Presidente Juscelino Kubitschek"
+    }, 
+    {
+        "Ciudad":"Porto Alegre",
+        "IATA":"POA",
+        "Aeropuerto":"Aeropuerto Internacional Salgado Filho"
+    }, 
+    {
+        "Ciudad":"San Pablo",
+        "IATA":"SAO",
+        "Aeropuerto":"Aeropuerto Internacional de São Paulo-Guarulhos"
+    }  
+    ],
+    "Chile":[
+    {
+        "Ciudad":"Santiago de Chile",
+        "IATA":"SCL",
+        "Aeropuerto":"Aeropuerto Internacional Arturo Merino Beníte"
+    },
+    {
+        "Ciudad":"Punta Arenas",
+        "IATA":"PUQ",
+        "Aeropuerto":"Aeropuerto Internacional Presidente Carlos Ibáñez del Campo"
+    },
+    {
+        "Ciudad":"Valparaiso",
+        "IATA":"VAP",
+        "Aeropuerto":"Valparaiso Airport"
+    } 
+
+    ],
+    "Perú":[
+    {
+        "Ciudad":"Lima",
+        "IATA":"LIM",
+        "Aeropuerto":"Aeropuerto Internacional Jorge Chávez"
+    },
+    {
+        "Ciudad":"Ayacucho",
+        "IATA":"AYP",
+        "Aeropuerto":"Aeropuerto Nacional Alfredo Mendívil Duarte"
+    },
+    {
+        "Ciudad":"Pucalpa",
+        "IATA":"PCL",
+        "Aeropuerto":"Aeropuerto Internacional David Abensur Rengifo"
+    } 
+    ],
+    "México":[
+    {
+        "Ciudad":"Cancun",
+        "IATA":"CUN",
+        "Aeropuerto":"Aeropuerto Internacional de Cancún"
+    },
+    {
+        "Ciudad":"Guadalajara",
+        "IATA":"GDL",
+        "Aeropuerto":"Aeropuerto Internacional de Guadalajara"
+    },
+    {
+        "Ciudad":"Ciudad de México",
+        "IATA":"MEX",
+        "Aeropuerto":"Aeropuerto Internacional de la Ciudad de México"
+    },
+    {
+        "Ciudad":"Monterrey",
+        "IATA":"MTY",
+        "Aeropuerto":"Aeropuerto Internacional de Monterrey"
+    }
+    ],
+    "Colombia":[
+    {
+        "Ciudad":"Barranquilla",
+        "IATA":"BAQ",
+        "Aeropuerto":"Aeropuerto Internacional Ernesto Cortissoz"
+    },
+    {
+        "Ciudad":"Bogotá",
+        "IATA":"BOG",
+        "Aeropuerto":"Aeropuerto Internacional El Dorado"
+    }, 
+    {
+        "Ciudad":"Cali",
+        "IATA":"CLO",
+        "Aeropuerto":"Aeropuerto Internacional Alfonso Bonilla Aragón"
+    },
+    {
+        "Ciudad":"Medellín",
+        "IATA":"MDE",
+        "Aeropuerto":"Aeropuerto Internacional José María Córdova"
+    },
+    {
+        "Ciudad":"Medellín",
+        "IATA":"MDE",
+        "Aeropuerto":"Aeropuerto Internacional José María Córdova"
+    }
+    ],
+    "Argentina":[
+     {
+        "Ciudad":"Buenos Aires",
+        "IATA":"BUE",
+        "Aeropuerto":"Aeropuerto de Buenos Aires"
+    },
+    {
+        "Ciudad":"Córdoba",
+        "IATA":"COR",
+        "Aeropuerto":"Aeropuerto Internacional Ingeniero Ambrosio Taravella"
+    },
+    {
+        "Ciudad":"La Plata",
+        "IATA":"LPG",
+        "Aeropuerto":"Aeropuerto de La Plata"
+    },  
+    {
+        "Ciudad":"Rosario",
+        "IATA":"ROS",
+        "Aeropuerto":"Aeropuerto Internacional Rosario Islas Malvinas"
+    }
+    ],
+    "España":[
+    {
+        "Ciudad":"Barcelona",
+        "IATA":"BCN",
+        "Aeropuerto":"Aeropuerto de Barcelona"
+    },
+    {
+        "Ciudad":"Bilbao",
+        "IATA":"BIO",
+        "Aeropuerto":"Aeropuerto de Bilbao"
+    },
+    {
+        "Ciudad":"Madrid",
+        "IATA":"MAD",
+        "Aeropuerto":"Aeropuerto Adolfo Suárez Madrid-Barajas"
+    },
+    {
+        "Ciudad":"Malaga",
+        "IATA":"AGP",
+        "Aeropuerto":"Aeropuerto de Málaga-Costa del Sol"
+    }
+    ],
+    "Francia":[
+    {
+        "Ciudad":"Paris",
+        "IATA":"PAR",
+        "Aeropuerto":"Aeropuerto de París-Charles de Gaulle"
+    }
+    ],
+    "Italia":[
+     {
+        "Ciudad":"Florencia",
+        "IATA":"FLR",
+        "Aeropuerto":"Aeropuerto de Florencia"
+    },
+    {
+        "Ciudad":"Milan",
+        "IATA":"MIL",
+        "Aeropuerto":"Aeropuerto de Milán-Malpensa"
+    },
+    {
+        "Ciudad":"Roma",
+        "IATA":"ROM",
+        "Aeropuerto":"Aeropuerto de Roma-Fiumicino"
+    }
+    ],
+    "Rusia":[
+      {
+        "Ciudad":"Moscu",
+        "IATA":"MOW",
+        "Aeropuerto":"Aeropuerto Internacional de Moscú-Sheremétievo"
+    }  
+    ]
+}
